@@ -1,6 +1,6 @@
 ##  Que es Polkadot
 1. [su tecnologia](#su tecnologia)
-2. [Technologies](#technologies)
+2. [su equipo](#su equipo)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
