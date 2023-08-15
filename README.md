@@ -1,5 +1,5 @@
 ##  Que es Polkadot
-1. [General Info](#general-info)
+1. [su tecnologia](#su tecnologia)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
