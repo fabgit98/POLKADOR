@@ -1,4 +1,4 @@
-##  Que es Polkadot
+##  Que es Polkadot?
 1. [su tecnologia](#su-tecnologia)
 2. [su equipo](#su-equipo)
 3. [Installation](#installation)
